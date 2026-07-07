@@ -9,7 +9,7 @@ export const profile = {
   about: [
     "I'm an Information Technology undergraduate at Nepal College of Information Technology (Pokhara University) with around a year of professional experience as a Data Visualization Specialist and Front-End Developer.",
     "I'm skilled at turning complex datasets into clear, accurate insights — and at verifying, comparing, and evaluating information for relevance and accuracy. I work comfortably to detailed guidelines and hold myself to a consistent, quality-focused standard.",
-    'I have a genuine interest in digital maps and local geography, which led me to build TrekNepal — a web platform mapping trekking routes across Nepal.',
+    "I enjoy building fast, responsive web experiences with modern frameworks and utility-first styling. I have a working understanding of UI/UX principles and a strong sense of what makes interfaces intuitive, clear, and easy to use.",
   ],
 }
 
