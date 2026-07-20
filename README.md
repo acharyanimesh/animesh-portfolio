@@ -7,8 +7,7 @@ Personal portfolio website of Animesh Acharya — Front-End Developer & Data Vis
 ## Tech
 
 - React 18 + Vite
-- Pure CSS (no framework) — custom teal/gold theme, Cinzel + Jost typography
-- CSS 3D spiral-staircase skills carousel, ambient orb + golden dust background
+- Pure CSS 
 
 ## Develop
 
